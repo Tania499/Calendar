@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+  }
+  .item {
+    height: 120px;
+    width: 360px;
+    background-color: whitesmoke;
+    border-bottom: 1px solid grey;
+    border-bottom-color: green;
+    position: relative;
+    display: flex;
+  }
